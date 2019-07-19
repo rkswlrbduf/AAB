@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntroViewPager</string>
+    <string name="first_des">매스프레소는 세계적인 기업입니다.</string>
+    <string name="first_title">매스프레소</string>
+    <string name="second_title">콴다</string>
+    <string name="second_des">세계적인 어플리케이션은 콴다입니다.</string>
+    <string name="ko">한국어</string>
+    <string name="en">영어</string>
+    <string name="es">스페인어</string>
+</resources>

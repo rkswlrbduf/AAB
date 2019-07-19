@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/locale_ko"
+        android:title="@string/ko"/>
+
+    <item
+        android:id="@+id/locale_en"
+        android:title="@string/en"/>
+
+    <item
+        android:id="@+id/locale_es"
+        android:title="@string/es"/>
+
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntroViewPager</string>
+    <string name="first_des">Mathpresso is global company.</string>
+    <string name="first_title">Mathpresso</string>
+    <string name="second_title">Qanda</string>
+    <string name="second_des">Global application is Qanda</string>
+    <string name="ko">Korean</string>
+    <string name="en">English</string>
+    <string name="es">Spanish</string>
+</resources>
